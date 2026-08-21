@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Entornos
+.venv/
+venv/
+env/
+
+# Jupyter
+*.ipynb_checkpoints
+
+# VS Code (config local, no compartida)
+.vscode/
+
+# Datasets pesados / outputs
+data/
+*.csv
+*.zip
+models/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
